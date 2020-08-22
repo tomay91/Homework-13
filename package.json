@@ -1,0 +1,30 @@
+{
+  "name": "homework-13",
+  "version": "1.0.0",
+  "description": "A burger eating app using node, express, and handlebars",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomay91/Homework-13.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "handlebars"
+  ],
+  "author": "Thomas O'Connell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomay91/Homework-13/issues"
+  },
+  "homepage": "https://github.com/tomay91/Homework-13#readme"
+}
